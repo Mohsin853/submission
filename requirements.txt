@@ -1,0 +1,10 @@
+itemadapter==0.3.0
+itemloaders==1.0.4
+py==1.10.0
+pytest==6.2.4
+reportlab==3.5.34
+Scrapy==2.5.0
+scrapy-testmaster==1.3.1
+SecretStorage==2.3.1
+service-identity==21.1.0
+simplejson==3.16.0
