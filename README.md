@@ -27,6 +27,14 @@ port =  `localhost:27017`
 ## Step 4:
 Built test cases with `scrapy-testmaker`.
 
+#### Setup:
+Install scrapy-testmaker. 
+Go to `settings.py` file, set `SPIDER_MIDDLEWARES = {
+    'scrapy_testmaster.TestMasterMiddleware': 950
+}` & `TESTMASTER_ENABLED = True`
+
+
+
 # Reason I used mongodb:
 I could easily load the data into database by importing the json file
 
