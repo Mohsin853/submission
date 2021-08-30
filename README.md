@@ -11,7 +11,8 @@ install using `requirements.txt`
 There are 4 main steps.
 
 ## Step 1:
- I built first spider `company_index.py` which crawls the website `https://www.adapt.io/directory/industry/telecommunications/A-1`. There are a list of companies mentioned in the website. I had to scrape the company name and source url enclosed within, by deriving the xpath.
+Run `scrapy startproject <project name>` . Move to project directory
+I built first spider `company_index.py` which crawls the website `https://www.adapt.io/directory/industry/telecommunications/A-1`. There are a list of companies mentioned in the website. I had to scrape the company name and source url enclosed within, by deriving the xpath.
 To run the spider we have to run `scrapy crawl company -o company_index.json` which will save the output in a json file
 
 ## Step 2:
