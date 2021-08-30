@@ -47,14 +47,16 @@
         {"contact_name": ["Ian Rennie"], 
          "contact_jobtitle": "Chief Technology Officer", 
          "contact_email_domain": "acision.com"}]},
-{"company_name": ["Abilita"], 
- "company_location": ["Fort Worth"], 
- "company_website": ["http://www.abilita.com"], 
- "company_webdomain": ["abilita.com"], 
- "company_industry": [["Industry", "Telecommunications"]],
- "company_employee_size": [["Head Count", "25 - 100"]],
- "company_revenue": [["Revenue", "$1 - 10M"]], 
- "contact_details": [
+{
+ 
+    "company_name": ["Abilita"], 
+    "company_location": ["Fort Worth"], 
+     "company_website": ["http://www.abilita.com"], 
+    "company_webdomain": ["abilita.com"], 
+    "company_industry": [["Industry", "Telecommunications"]],
+    "company_employee_size": [["Head Count", "25 - 100"]],
+    "company_revenue": [["Revenue", "$1 - 10M"]], 
+    "contact_details": [
      {"contact_name": ["Wim Cassard"],
       "contact_jobtitle": "Chief Executive Officer",
       "contact_email_domain": "abilita.com"}]}
