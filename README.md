@@ -22,6 +22,7 @@ scrapes the data each url as per requirement.
 
 ## Step 3:
 Used mongodb compass for loading json data into database.
+port =  `localhost:27017`
 
 ## Step 4:
 Built test cases with `scrapy-testmaker`.
