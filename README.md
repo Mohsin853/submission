@@ -24,6 +24,8 @@ scrapes the data each url as per requirement.
 ## Step 3:
 Used mongodb compass for loading json data into database.
 port =  `localhost:27017`
+Made a separate foder : `databases` to write code to import json data to mongodb.
+Also copied the json files to the same folder
 
 ## Step 4:
 Built test cases with `scrapy-testmaker`.
