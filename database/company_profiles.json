@@ -1,0 +1,63 @@
+[
+    {   
+        "company_name": ["ACN"], 
+        "company_location": ["Scottsdale"], 
+        "company_website": ["http://www.acnrep.acnibo.com"],
+        "company_webdomain": ["acnrep.acnibo.com"], 
+        "company_industry": [["Industry", "Telecommunications"]],
+        "company_employee_size": [["Head Count", "1K - 10K"]], 
+        "company_revenue": [["Revenue", "$250 - 500M"]], 
+        "contact_details": [
+            {"contact_name": ["Eric Standlee"], 
+            "contact_jobtitle": "Principal", 
+            "contact_email_domain": "acnrep.com"}]},
+    {   
+        "company_name": ["AccuConference"], 
+        "company_location": ["Fort Worth"], 
+        "company_website": ["http://www.accuconference.com"], 
+        "company_webdomain": ["accuconference.com"],
+        "company_industry": [["Industry", "Telecommunications"]], 
+        "company_employee_size": [["Head Count", "1K - 10K"]], 
+        "company_revenue": [["Revenue", "$1 - 10M"]], 
+        "contact_details": [
+            {"contact_name": ["Ruham Anouti"], 
+            "contact_jobtitle": "Account Manager",
+            "contact_email_domain": "accuconference.com"}]},
+    {
+        "company_name": ["Abadi Group"], 
+        "company_location": ["West Long Branch"], 
+        "company_website": ["http://www.abadigroup.com"],
+        "company_webdomain": ["abadigroup.com"],
+        "company_industry": [["Industry", "Telecommunications"]], 
+        "company_employee_size": [["Head Count", "0 - 25"]],
+        "company_revenue": [["Revenue", "$1 - 10M"]], 
+        "contact_details": [
+            {"contact_name": ["Chuck Abadi"], 
+            "contact_jobtitle": "Owner", 
+            "contact_email_domain": "abadigroup.com"}]},
+    { 
+        "company_name": ["Acision"],
+        "company_location": ["Gurgaon"], 
+        "company_website": ["http://www.acision.com"], 
+        "company_webdomain": ["acision.com"], 
+        "company_industry": [["Industry", "Telecommunications"]], 
+        "company_employee_size": [["Head Count", "1K - 10K"]], 
+        "company_revenue": [["Revenue", "$500M - 1B"]],
+        "contact_details": [
+            {"contact_name": ["Ian Rennie"], 
+             "contact_jobtitle": "Chief Technology Officer", 
+             "contact_email_domain": "acision.com"}]},
+    {
+     
+        "company_name": ["Abilita"], 
+        "company_location": ["Fort Worth"], 
+         "company_website": ["http://www.abilita.com"], 
+        "company_webdomain": ["abilita.com"], 
+        "company_industry": [["Industry", "Telecommunications"]],
+        "company_employee_size": [["Head Count", "25 - 100"]],
+        "company_revenue": [["Revenue", "$1 - 10M"]], 
+        "contact_details": [
+         {"contact_name": ["Wim Cassard"],
+          "contact_jobtitle": "Chief Executive Officer",
+          "contact_email_domain": "abilita.com"}]}
+    ]
