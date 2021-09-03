@@ -4,6 +4,7 @@
 install using `requirements.txt`
 
 1)To install scrapy : `pip3 install scrapy` 
+
 2)To install testmaster : ` pip3 install scrapy-testmaster`
 
 # Architecture of Application
@@ -35,7 +36,9 @@ Built test cases with `scrapy-testmaker`.
 
 #### Setup:
 Install scrapy-testmaker. 
-Go to `settings.py` file, set `SPIDER_MIDDLEWARES = {
+Go to `settings.py` file,
+
+set `SPIDER_MIDDLEWARES = {
     'scrapy_testmaster.TestMasterMiddleware': 950
 }` & `TESTMASTER_ENABLED = True`
 
